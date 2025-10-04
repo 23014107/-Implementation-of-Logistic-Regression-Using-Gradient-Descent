@@ -15,18 +15,11 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 5. Prediction: Predict placement status for new student data using trained model.
 6. End of program.
 ## Program:
-
-/*
-
-Program to implement the the Logistic Regression Using Gradient Descent.
-
-Developed by : RAMYA.P 
-
-RegisterNumber : 212223240137 
-
-*/
-
 ```
+Program to implement the the Logistic Regression Using Gradient Descent.
+Developed by : RAMYA.P 
+RegisterNumber : 212223240137
+
 import pandas as pd
 import numpy as np
 
